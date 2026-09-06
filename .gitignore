@@ -1,0 +1,12 @@
+# Publish only the website files listed here. Local backups, login details,
+# and older assets in this Dropbox folder stay out of the public repository.
+/*
+!/.gitignore
+!/.gitattributes
+!/.nojekyll
+!/README.md
+!/index.html
+!/CNAME
+!/papers/
+/papers/*
+!/papers/*.pdf
