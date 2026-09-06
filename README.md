@@ -8,15 +8,16 @@ The existing single-page website, prepared for free hosting on GitHub Pages.
 
 ## Contents
 
-`index.html` comes from the live website downloaded on September 6, 2026. It
-preserves the current text, layout, font, and Google Analytics configuration,
-including the Associate Professor title. The hosting-specific GoDaddy monitoring
-scripts were removed; they do not affect the page's appearance.
+`index.html` was initially imported from the live website on September 6, 2026,
+preserving its layout, font, and Google Analytics configuration. The page is now
+maintained here. The hosting-specific GoDaddy monitoring scripts were removed;
+they do not affect the page's appearance.
 
-`papers/` contains all 22 PDFs linked from that homepage: the CV, publications,
-appendices, working papers, and the March 2025 correction note. Filenames and
-paths are unchanged so the existing PDF URLs can continue working after the
-domain moves.
+`papers/` contains the CV, publications, appendices, working papers, and the
+March 2025 correction note. Existing filenames and paths are retained, including
+older paper versions linked from the homepage. The August 2026 version of
+"Fortunate Sons" was downloaded from [NBER Working Paper 35569](https://www.nber.org/papers/w35569.pdf),
+as linked from [James Feigenbaum's paper page](https://jamesfeigenbaum.github.io/research/fortunate-sons/).
 
 The public server does not list the contents of its `papers/` directory and has
 no sitemap, so this is a copy of all PDFs linked from the current homepage, not
