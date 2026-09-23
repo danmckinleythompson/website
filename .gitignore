@@ -10,3 +10,6 @@
 !/papers/
 /papers/*
 !/papers/*.pdf
+!/teaching/
+/teaching/*
+!/teaching/*.pdf
